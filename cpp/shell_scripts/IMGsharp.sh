@@ -1,0 +1,2 @@
+cd ../IMGsharp
+./IMGsharp

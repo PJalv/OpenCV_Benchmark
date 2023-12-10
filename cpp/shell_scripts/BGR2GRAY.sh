@@ -1,0 +1,2 @@
+cd ../BGR2GRAY
+./BGR2GRAY

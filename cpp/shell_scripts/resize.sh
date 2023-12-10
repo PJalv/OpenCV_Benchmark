@@ -1,0 +1,2 @@
+cd ../resize
+./resize

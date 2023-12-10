@@ -1,0 +1,2 @@
+cd ../histogram
+./runHistogram
